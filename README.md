@@ -1,8 +1,8 @@
-# I Love Cats
+# I Love Dogs
 
 ## About
 
-This is a website about cats. It has a picture of a cat using an img tag. It also has a CSS for style and JavaScript to add an alert on click.
+This is a website about dogs. It has a picture of a dog using an img tag. It also has a CSS for style and JavaScript to add an alert on click.
 
 ## Built With
 
@@ -15,11 +15,11 @@ This is a website about cats. It has a picture of a cat using an img tag. It als
 - [x] Headers (h1, h2)
 - [x] CSS background
 - [x] JavaScript alert
-- [ ] Three changes with commits
+- [x] Three changes with commits
 
 ## Contact
 
-Author: Robert McCreary robert.mccreary@codex.academy
+Author: Walter Sias walt.sias@gmail.com
 
 ## Acknowledgements
 

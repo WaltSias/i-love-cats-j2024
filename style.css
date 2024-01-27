@@ -1,16 +1,15 @@
-
 body {
-  background-color: darkorchid;
+  background-color: beige;
   text-align: center;
 }
 
 #header {
-  color: gray;
-  font-family:  cursive;
+  color: blue;
+  font-family: cursive;
 }
 
 #content {
-  color: white;
+  color: black;
 }
 
 #picture1 {
